@@ -1,0 +1,26 @@
+AI
+Generative AI is dramatically transforming software development as we speak.
+
+The GitHub Enterprise platform is enhancing collaboration through AI-powered pull requests and issues, productivity through Copilot, and security by automating security checks faster.
+
+Collaboration
+Collaboration is at the core of everything GitHub does. We know inefficient collaboration results in wasted time and money. We counteract that with a suite of seamless tools that allow collaboration to happen effortlessly.
+
+Repositories, Issues, Pull Requests, and other tools help to enable developers, project managers, operation leaders, and others at the same company to work faster together, cut down approval times, and ship more quickly.
+
+Productivity
+Productivity is accelerated with automation that the GitHub Enterprise Platform provides. With built-in CI/CD tools directly integrated into the workflow, the platform gives users the ability to set tasks and forget them, taking care of routine administration, and speeding up day-to-day work. This gives your developers more time to focus on what matters most: creating innovative solutions.
+
+Security
+GitHub focuses on integrating security directly into the development process from the start. GitHub Enterprise platform includes native, first-party security features that minimize security risk with a built-in security solution. Plus, your code remains private within your organization, and at the same time you are able to take advantage of security overview and Dependabot.
+
+GitHub has continued to make investments to ensure that our features are enterprise-ready. We’re backed by Microsoft, trusted by highly regulated industries, and meet compliance requirements globally.
+
+Scale
+GitHub is the largest developer community of its kind. With real-time data on over 100M+ developers, 330M+ repositories, and countless deployments, we’ve been able to understand the shifting needs of developers and make changes to our product to match.
+
+This has translated into an incredible scale that is unmatched and unparalleled by any other company on the planet. Everyday we are gaining more and more insights from this impressive community and evolving the platform to meet their needs.
+
+In essence the GitHub Enterprise Platform focuses on the developer experience–it has the scale to provide industry-changing insights, collaboration capabilities for transformative efficiency, the tools for increased productivity, security at every step, and AI to power it all to new heights in a single, integrated platform.
+
+Now let’s get into the backbone of GitHub, repositories.
